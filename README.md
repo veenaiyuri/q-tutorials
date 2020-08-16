@@ -20,6 +20,7 @@ IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方
 緑色の「Clone」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
 
 
-## 本日のハンズオンコンテンツ
-1. [Day1ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/qiskit-handson)
+## ハンズオンコンテンツ
+1. [Day1ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/day1)
+2. [Day2ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/day2)
 
