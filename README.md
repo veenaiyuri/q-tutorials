@@ -23,4 +23,4 @@ IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方
 ## ハンズオンコンテンツ
 1. [Day1ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/day1)
 2. [Day2ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/day2)
-
+2. [Day3ハンズオン研修](https://github.com/veenaiyuri/q-tutorials/tree/master/day3)
