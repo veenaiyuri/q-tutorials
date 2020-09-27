@@ -16,8 +16,7 @@ jupyter notebook
 
 IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方：
 
-このページの
-緑色の「Clone」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
+このページの緑色の「Clone」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
 
 
 ## ハンズオンコンテンツ
